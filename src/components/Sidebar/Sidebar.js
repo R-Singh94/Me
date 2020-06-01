@@ -6,9 +6,9 @@ import { StyledSideNav } from './styles';
 
 const items = [
   { name: 'Me', path: '/Me' },
-  { name: 'Projects', path: '/Projects' },
-  { name: 'Work', path: '/Work' },
-  { name: 'Education', path: '/Education' },
+  { name: 'Projects', path: '/Me/Projects' },
+  { name: 'Work', path: '/Me/Work' },
+  { name: 'Education', path: '/Me/Education' },
 ];
 
 const Sidebar = () => {

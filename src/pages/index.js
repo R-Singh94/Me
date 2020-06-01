@@ -12,13 +12,13 @@ const Pages = ({ user }) => {
         <Route exact path="/Me">
           <Me user={user} />
         </Route>
-        <Route path="/Projects">
+        <Route path="/Me/Projects">
           <Projects user={user} />
         </Route>
-        <Route path="/Work">
+        <Route path="/Me/Work">
           <Work user={user} />
         </Route>
-        <Route path="/Education">
+        <Route path="/Me/Education">
           <Education user={user} />
         </Route>
       </Switch>
