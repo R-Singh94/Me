@@ -2,7 +2,7 @@
   "name": "me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://r-singh94.github.io/me",
+  "homepage": "https://r-singh94.github.io/Me",
   "dependencies": {
     "@carbon/icons-react": "^10.11.0",
     "@carbon/themes": "^10.12.0",
